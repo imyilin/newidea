@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mymymybeta.imyilin.top</id>
+    <id>https://idea.yilin.cool</id>
     <title>Gridea</title>
-    <updated>2020-06-28T13:14:20.928Z</updated>
+    <updated>2020-06-28T13:19:58.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mymymybeta.imyilin.top"/>
-    <link rel="self" href="https://mymymybeta.imyilin.top/atom.xml"/>
+    <link rel="alternate" href="https://idea.yilin.cool"/>
+    <link rel="self" href="https://idea.yilin.cool/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://mymymybeta.imyilin.top/images/avatar.png</logo>
-    <icon>https://mymymybeta.imyilin.top/favicon.ico</icon>
+    <logo>https://idea.yilin.cool/images/avatar.png</logo>
+    <icon>https://idea.yilin.cool/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://mymymybeta.imyilin.top/post/hello-gridea/</id>
-        <link href="https://mymymybeta.imyilin.top/post/hello-gridea/">
+        <id>https://idea.yilin.cool/post/hello-gridea/</id>
+        <link href="https://idea.yilin.cool/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
